@@ -1,10 +1,7 @@
-Nama Lengkap: [miller eligius kaibu]
+BIODATA saya
 
-NPM: [202557201102]
-
-Program Studi: Sistem Informasi
-
-Fakultas: Teknik
-
+Nama       :miller eligius kaibu
+NPM        : 292557201102
+Program    : Sistem Informasi
 Universitas: Universitas Musamus
-Cita-cita: Menjadi seorang System Analyst
+Cita-cita  : pengusaha
